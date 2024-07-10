@@ -452,8 +452,8 @@ body {
     width: 39px;
 }
 .skill {
-    padding: 18px;
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .skill img {
     width: 100%;
